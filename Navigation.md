@@ -1,11 +1,4 @@
-# Module 3 - Navigation
-
-----
-## Tags 
-
-- <li> - List Item
-- <ul> - Unorderel List
-- <a> - Creates a Hyperlink
+# Module 1(Lesson 3) - Navigation
 
 -----
 
