@@ -1,0 +1,76 @@
+body{
+	background-image: url('gamingbackground.jpg');
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size: 100% 100%;
+
+}
+
+h1{
+	width: 100%;
+	color: black;
+	font-family: Lato;
+	font-size: 50px;
+	text-align: center;
+	text-shadow: 5px 2px grey;
+
+}
+
+h2{
+	font-size: 25px;
+	color: black;
+	text-align: center;
+	margin-top: 80px;
+	font-family: Lato;	
+}
+
+table{
+	font-family: lato;
+	border-collapse: collapse;
+	width: 80%;
+	text-align: center;
+	margin-top: 80px;
+
+}
+
+th{
+	font-size: 20px;
+	text-align: left;
+	font-weight: bold;
+	padding-top: 40px;
+	background-color: #6BBE30;
+	padding: 8px;
+
+}
+td{
+	font-size: 15px;
+	text-align: center;
+	padding: 8px;
+
+}
+
+tr:nth-child(odd){
+	background-color: #6BBE30;
+
+}
+tr:nth-child(even){
+	background-color: grey;
+
+}
+
+.container{
+	text-align: center;
+	padding-top: 40px;
+
+}
+
+.footer{
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #6BBE30;
+	color: white;
+	text-align: center;
+
+}
